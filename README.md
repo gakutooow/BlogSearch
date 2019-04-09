@@ -1,3 +1,3 @@
 # BlogSearch
 
-curl -X POST https://api.hottolink.io/auth/login  -d'{"email":"t.sakaki@hottolink.co.jp","password":"xxxxxxxxxxxxxxxxxxx"}'  -H"Content-type: application/json"
+curl -X POST https://api.hottolink.io/auth/login  -d'{"email":"xxxxxxxxxxxxxxxxxxx","password":"xxxxxxxxxxxxxxxxxxx"}'  -H"Content-type: application/json"
